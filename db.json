@@ -188,6 +188,195 @@
             "price": 12670,
             "category": "beauty&toys",
             "image": ""
+        },
+        {
+            "id": 1,
+            "title": "iPhone 9",
+            "price": 99999,
+            "category": "smartphones",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "title": "iPhone 14",
+            "price": 148999,
+            "category": "smartphones",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "title": "galaxy j7",
+            "price": 9999,
+            "category": "smartphones",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "title": "motorola",
+            "price": 14999,
+            "category": "smartphones",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "title": "sony",
+            "price": 56999,
+            "category": "smartphones",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "title": "rice",
+            "price": 120,
+            "category": "grocery",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "title": "pulse",
+            "price": 200,
+            "category": "grocery",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "title": "oil",
+            "price": 230,
+            "category": "grocery",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "title": "soya",
+            "price": 60,
+            "category": "grocery",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "title": "spice",
+            "price": 45,
+            "category": "grocery",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "title": "T-shirt",
+            "price": 455,
+            "category": "fashion",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "title": "lower girl",
+            "price": 945,
+            "category": "fashion",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "title": "T-shirt women",
+            "price": 725,
+            "category": "fashion",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "title": "paint",
+            "price": 2450,
+            "category": "fashion",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "title": "shirt",
+            "price": 1455,
+            "category": "fashion",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "title": "headphone",
+            "price": 1299,
+            "category": "electronics",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "title": "laptop",
+            "price": 51299,
+            "category": "electronics",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "title": "watch",
+            "price": 12990,
+            "category": "electronics",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "title": "chair",
+            "price": 10990,
+            "category": "home&furniture",
+            "image": ""
+        },
+        {
+            "id": 20,
+            "title": "fan",
+            "price": 1299,
+            "category": "home&furniture",
+            "image": ""
+        },
+        {
+            "id": 21,
+            "title": "frize",
+            "price": 22990,
+            "category": "home&furniture",
+            "image": ""
+        },
+        {
+            "id": 22,
+            "title": "bulb",
+            "price": 1599,
+            "category": "home&furniture",
+            "image": ""
+        },
+        {
+            "id": 23,
+            "title": "sony tv",
+            "price": 60299,
+            "category": "appliances",
+            "image": ""
+        },
+        {
+            "id": 24,
+            "title": "boat home theatre",
+            "price": 14590,
+            "category": "appliances",
+            "image": ""
+        },
+        {
+            "id": 25,
+            "title": "baby doll",
+            "price": 1299,
+            "category": "beauty&toys",
+            "image": ""
+        },
+        {
+            "id": 26,
+            "title": "fair creme",
+            "price": 299,
+            "category": "beauty&toys",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "title": "neckless",
+            "price": 12670,
+            "category": "beauty&toys",
+            "image": ""
         }
     ]
 }
