@@ -5,378 +5,189 @@
             "title": "iPhone 9",
             "price": 99999,
             "category": "smartphones",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70"
         },
         {
             "id": 2,
             "title": "iPhone 14",
             "price": 148999,
             "category": "smartphones",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/c/k/-original-imagtc5fuzkvczr7.jpeg?q=70"
         },
         {
             "id": 3,
             "title": "galaxy j7",
             "price": 9999,
             "category": "smartphones",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/w/e/-original-imagtyw9fdfnsune.jpeg?q=70"
         },
         {
             "id": 4,
             "title": "motorola",
             "price": 14999,
             "category": "smartphones",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mobile/o/7/0/g34-5g-pb1v0002in-motorola-original-imagwu4rbz2eryzx.jpeg?q=70"
         },
         {
             "id": 5,
             "title": "sony",
             "price": 56999,
             "category": "smartphones",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/312/312/j8ndea80/mobile/p/x/q/sony-xperia-xa1-plus-g3416-original-imaeym7pgxzqfrjg.jpeg?q=70"
         },
         {
             "id": 6,
             "title": "rice",
             "price": 120,
             "category": "grocery",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/kz5vwy80/rice/f/k/i/-original-imagb8n6c9f2khs5.jpeg?q=70"
         },
         {
             "id": 7,
             "title": "pulse",
             "price": 200,
             "category": "grocery",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/pulses/u/9/c/250-premium-quality-arhar-dal-toor-dal-split-pack-of-1-250g-original-imah28dfcwezkprt.jpeg?q=70"
         },
         {
             "id": 8,
             "title": "oil",
             "price": 230,
             "category": "grocery",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/kflftzk0hlty2aw-0/edible-oil/j/a/d/sunlite-refined-pouch-sunflower-oil-fortune-original-imafw33uhwkebr5j.jpeg?q=70"
         },
         {
             "id": 9,
             "title": "soya",
             "price": 60,
             "category": "grocery",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/kjuby4w0/pulses/s/g/3/200-soya-chunks-nano-200g-pack-of-1-soya-bean-soya-bean-double-original-imafzbnmjnrgjesz.jpeg?q=70"
         },
         {
             "id": 10,
             "title": "spice",
             "price": 45,
             "category": "grocery",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/spice-masala/j/o/r/-original-imagtqmfxddfevqx.jpeg?q=70"
         },
         {
             "id": 11,
             "title": "T-shirt",
             "price": 455,
             "category": "fashion",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/p/f/f/s-tsrt-catalog-03-kajaru-original-imagqktmfsngyvsg.jpeg?q=70"
         },
         {
             "id": 12,
             "title": "lower girl",
             "price": 945,
             "category": "fashion",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/klfhk7k0/kids-track-pant/w/z/x/7-8-years-gp8603-3p-southtree-original-imagykynkceg7syw.jpeg?q=70"
         },
         {
             "id": 13,
             "title": "T-shirt women",
             "price": 725,
             "category": "fashion",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/o/6/n/s-os-smily-vg-holink-original-imagy9gt2m4ppwgf.jpeg?q=70"
         },
         {
             "id": 14,
             "title": "paint",
             "price": 2450,
             "category": "fashion",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/track-pant/t/m/b/m-lower-combo-of-2-tanu-fashion-original-imagnf9tdyzwfrw2.jpeg?q=70"
         },
         {
             "id": 15,
             "title": "shirt",
             "price": 1455,
             "category": "fashion",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/p/z/z/m-pk21sh09g-surhi-original-imahfyes8eugjdsr.jpeg?q=70"
         },
         {
             "id": 16,
             "title": "headphone",
             "price": 1299,
             "category": "electronics",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/0/q/k/zeb-thunder-zebronics-original-imagxaq2wzqdzdzr.jpeg?q=70"
         },
         {
             "id": 17,
             "title": "laptop",
             "price": 51299,
             "category": "electronics",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/s/p/n/-original-imagxqetzpemafuw.jpeg?q=70"
         },
         {
             "id": 18,
             "title": "watch",
             "price": 12990,
             "category": "electronics",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/w/o/t/-original-imagxp8thk2pbaqa.jpeg?q=70"
         },
         {
             "id": 19,
             "title": "chair",
             "price": 10990,
             "category": "home&furniture",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/office-study-chair/z/s/5/1-natural-fiber-62-tscstc003-ergosmart-124-original-imahfyg6brnvfhkz.jpeg?q=70"
         },
         {
             "id": 20,
             "title": "fan",
             "price": 1299,
             "category": "home&furniture",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/fan/0/b/2/-original-imagwpktuz3zzgba.jpeg?q=70"
         },
         {
             "id": 21,
-            "title": "frize",
+            "title": "fridge",
             "price": 22990,
             "category": "home&furniture",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/y/h/s/-original-imahyjhbryt5vps2.jpeg?q=70"
         },
         {
             "id": 22,
             "title": "bulb",
             "price": 1599,
             "category": "home&furniture",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/bulb/c/g/3/-original-imagtewqzfjtdgst.jpeg?q=70"
         },
         {
             "id": 23,
             "title": "sony tv",
             "price": 60299,
             "category": "appliances",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/9/c/v/-original-imagvgcgp2hgxs6n.jpeg?q=70"
         },
         {
             "id": 24,
-            "title": "boat home theatre",
+            "title": "boat home theater",
             "price": 14590,
             "category": "appliances",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/ko0d6kw0/speaker/home-theatre/o/i/g/mms8085b-94-philips-original-imag2k3tn8zrgw4f.jpeg?q=70"
         },
         {
             "id": 25,
             "title": "baby doll",
             "price": 1299,
             "category": "beauty&toys",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/kzygpzk0/doll-doll-house/8/u/s/teddy-boy-jr-el-figo-original-imagbujtjehzxayv.jpeg?q=70"
         },
         {
             "id": 26,
             "title": "fair creme",
             "price": 299,
             "category": "beauty&toys",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/d/8/w/30-16-vitamin-c-serum-with-vitamin-e-ferulic-acid-for-original-imah2ghhytgchapp.jpeg?q=70"
         },
         {
             "id": 27,
-            "title": "neckless",
+            "title": "necklece",
             "price": 12670,
             "category": "beauty&toys",
-            "image": ""
-        },
-        {
-            "id": 1,
-            "title": "iPhone 9",
-            "price": 99999,
-            "category": "smartphones",
-            "image": ""
-        },
-        {
-            "id": 2,
-            "title": "iPhone 14",
-            "price": 148999,
-            "category": "smartphones",
-            "image": ""
-        },
-        {
-            "id": 3,
-            "title": "galaxy j7",
-            "price": 9999,
-            "category": "smartphones",
-            "image": ""
-        },
-        {
-            "id": 4,
-            "title": "motorola",
-            "price": 14999,
-            "category": "smartphones",
-            "image": ""
-        },
-        {
-            "id": 5,
-            "title": "sony",
-            "price": 56999,
-            "category": "smartphones",
-            "image": ""
-        },
-        {
-            "id": 6,
-            "title": "rice",
-            "price": 120,
-            "category": "grocery",
-            "image": ""
-        },
-        {
-            "id": 7,
-            "title": "pulse",
-            "price": 200,
-            "category": "grocery",
-            "image": ""
-        },
-        {
-            "id": 8,
-            "title": "oil",
-            "price": 230,
-            "category": "grocery",
-            "image": ""
-        },
-        {
-            "id": 9,
-            "title": "soya",
-            "price": 60,
-            "category": "grocery",
-            "image": ""
-        },
-        {
-            "id": 10,
-            "title": "spice",
-            "price": 45,
-            "category": "grocery",
-            "image": ""
-        },
-        {
-            "id": 11,
-            "title": "T-shirt",
-            "price": 455,
-            "category": "fashion",
-            "image": ""
-        },
-        {
-            "id": 12,
-            "title": "lower girl",
-            "price": 945,
-            "category": "fashion",
-            "image": ""
-        },
-        {
-            "id": 13,
-            "title": "T-shirt women",
-            "price": 725,
-            "category": "fashion",
-            "image": ""
-        },
-        {
-            "id": 14,
-            "title": "paint",
-            "price": 2450,
-            "category": "fashion",
-            "image": ""
-        },
-        {
-            "id": 15,
-            "title": "shirt",
-            "price": 1455,
-            "category": "fashion",
-            "image": ""
-        },
-        {
-            "id": 16,
-            "title": "headphone",
-            "price": 1299,
-            "category": "electronics",
-            "image": ""
-        },
-        {
-            "id": 17,
-            "title": "laptop",
-            "price": 51299,
-            "category": "electronics",
-            "image": ""
-        },
-        {
-            "id": 18,
-            "title": "watch",
-            "price": 12990,
-            "category": "electronics",
-            "image": ""
-        },
-        {
-            "id": 19,
-            "title": "chair",
-            "price": 10990,
-            "category": "home&furniture",
-            "image": ""
-        },
-        {
-            "id": 20,
-            "title": "fan",
-            "price": 1299,
-            "category": "home&furniture",
-            "image": ""
-        },
-        {
-            "id": 21,
-            "title": "frize",
-            "price": 22990,
-            "category": "home&furniture",
-            "image": ""
-        },
-        {
-            "id": 22,
-            "title": "bulb",
-            "price": 1599,
-            "category": "home&furniture",
-            "image": ""
-        },
-        {
-            "id": 23,
-            "title": "sony tv",
-            "price": 60299,
-            "category": "appliances",
-            "image": ""
-        },
-        {
-            "id": 24,
-            "title": "boat home theatre",
-            "price": 14590,
-            "category": "appliances",
-            "image": ""
-        },
-        {
-            "id": 25,
-            "title": "baby doll",
-            "price": 1299,
-            "category": "beauty&toys",
-            "image": ""
-        },
-        {
-            "id": 26,
-            "title": "fair creme",
-            "price": 299,
-            "category": "beauty&toys",
-            "image": ""
-        },
-        {
-            "id": 27,
-            "title": "neckless",
-            "price": 12670,
-            "category": "beauty&toys",
-            "image": ""
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-jewellery-set/g/c/1/sps-sparsh-slr-white-earring-necklace-set-brado-jewellery-original-imahfpsfeheqgd8s.jpeg?q=70"
         }
     ]
 }
